@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV Abo" parent-code="",Dein Abo ist bald abgelaufen [30.01.2017]
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV Abo" parent-code="",Abo bald abgelaufen, bitte zahle
 http://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel.ism/.m3u8
